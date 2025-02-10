@@ -77,6 +77,25 @@
   <a href="https://instagram.com/yourhandle" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" style="width: 40px; margin: 5px;">
   </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/yourhandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" alt="HackerRank" style="width: 40px; margin: 5px;">
+  </a>
+</div>
+
+---
+
+# UX Tools  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <!-- Adobe XD -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobexd.svg" alt="Adobe XD" style="width: 40px; margin: 5px;">
+  <!-- InVision -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/invision.svg" alt="InVision" style="width: 40px; margin: 5px;">
+  <!-- Zeplin -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/zeplin.svg" alt="Zeplin" style="width: 40px; margin: 5px;">
+  <!-- Marvel -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/marvelapp.svg" alt="Marvel" style="width: 40px; margin: 5px;">
 </div>
 
 ---
