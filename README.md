@@ -19,7 +19,7 @@
 ---
 
 # Graphic & UI/UX Tools  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; Color: white;">
   <!-- Twitter -->
   <a href="https://twitter.com/yourhandle" target="_blank" title="Twitter">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" style="width: 40px; margin: 5px; transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1.3)';" onmouseout="this.style.filter='none';">
