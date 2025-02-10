@@ -22,26 +22,27 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Adobe Photoshop -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobephotoshop.svg" alt="Adobe Photoshop" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 40px; margin: 5px;">
   <!-- Adobe Illustrator -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobeillustrator.svg" alt="Adobe Illustrator" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" style="width: 40px; margin: 5px;">
   <!-- Adobe InDesign -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobeindesign.svg" alt="Adobe InDesign" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="Adobe InDesign" title="Adobe InDesign" style="width: 40px; margin: 5px;">
   <!-- Adobe XD -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobexd.svg" alt="Adobe XD" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" title="Adobe XD" style="width: 40px; margin: 5px;">
   <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/figma.svg" alt="Figma" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" title="Figma" style="width: 40px; margin: 5px;">
   <!-- Sketch -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sketch.svg" alt="Sketch" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="Sketch" title="Sketch" style="width: 40px; margin: 5px;">
   <!-- Canva -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/canva.svg" alt="Canva" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" title="Canva" style="width: 40px; margin: 5px;">
   <!-- GIMP -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gimp.svg" alt="GIMP" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP" title="GIMP" style="width: 40px; margin: 5px;">
   <!-- CorelDRAW -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/coreldraw.svg" alt="CorelDRAW" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/CorelDRAW_Logo.png" alt="CorelDRAW" title="CorelDRAW" style="width: 40px; margin: 5px;">
   <!-- Affinity Designer -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/affinitydesigner.svg" alt="Affinity Designer" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Affinity_Designer_Logo.svg" alt="Affinity Designer" title="Affinity Designer" style="width: 40px; margin: 5px;">
 </div>
+
 
 ---
 
