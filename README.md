@@ -62,7 +62,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Twitter -->
   <a href="https://twitter.com/yourhandle" target="_blank" title="Twitter">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" style="width: 40px; margin: 5px;">
+    <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553)" alt="Twitter" style="width: 40px; margin: 5px;">
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourhandle" target="_blank" title="LinkedIn">
