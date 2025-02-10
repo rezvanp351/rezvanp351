@@ -26,11 +26,12 @@
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourhandle" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" style="width: 40px; margin: 5px; transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1.3)';" onmouseout="this.style.filter='none';">
+    <img src="![image](https://github.com/user-attachments/assets/e5a49392-be96-45d4-a1fc-2fe4f0c36ef3)
+" alt="LinkedIn" style="width: 40px; margin: 5px; transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1.3)';" onmouseout="this.style.filter='none';">
   </a>
   <!-- GitHub -->
   <a href="https://github.com/yourusername" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" style="width: 40px; margin: 5px; transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1.3)';" onmouseout="this.style.filter='none';">
+    <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" style="width: 40px; margin: 5px; transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1.3)';" onmouseout="this.style.filter='none';">
   </a>
   <!-- Facebook -->
   <a href="https://facebook.com/yourhandle" target="_blank" title="Facebook">
