@@ -86,7 +86,7 @@
   </a>
   <!-- Threads -->
   <a href="https://instagram.com/yourhandle" target="_blank" title="Kaggle">
-    <img src="https://gpng.net/wp-content/uploads/Instagram-Threads-Logo-PNG.png" alt="kaggle" style="width: 50px; margin: 5px;">
+    <img src="https://gpng.net/wp-content/uploads/Instagram-Threads-Logo-PNG.png" alt="kaggle" style="width: 35px; margin: 5px;">
   </a>
 </div>
 
