@@ -21,7 +21,7 @@
 # Graphic & UI/UX Tools  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Adobe Photoshop -->
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-700x394.png" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 80px; margin: 5px;">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 80px; margin: 5px;">
   <!-- Adobe Illustrator -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" style="width: 40px; margin: 5px;">
   <!-- Adobe InDesign -->
