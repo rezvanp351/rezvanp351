@@ -106,7 +106,7 @@
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687443476347/iuXoUb3BJ.png" alt="XGBoost" title="XGBoost" style="width: 40px; margin: 5px;">
   
   <!-- KNN -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/K-nearest_neighbors.svg/600px-K-nearest_neighbors.svg.png" alt="KNN" title="KNN" style="width: 40px; margin: 5px;">
+  <img src="https://www.alooba.com/static/f6e3ffa35b5647fb5890b98a4ccc3815/machine_learning_icon_b0f3ea70f4.svg" alt="KNN" title="KNN" style="width: 40px; margin: 5px;">
   
   <!-- LSTM -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Long_Short-Term_Memory_Icon.svg" alt="LSTM" title="LSTM" style="width: 40px; margin: 5px;">
