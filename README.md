@@ -100,7 +100,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" style="width: 40px; margin: 5px;">
   
   <!-- CNN -->
-  <img src="https://www.flaticon.com/free-icon/network_2562060" alt="CNN" title="CNN" style="width: 40px; margin: 5px;">
+  <img src="https://www.flaticon.com/free-icon/neural_2103633" alt="CNN" title="CNN" style="width: 40px; margin: 5px;">
   
   <!-- XGBoost -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/XGBoost_logo.png" alt="XGBoost" title="XGBoost" style="width: 40px; margin: 5px;">
