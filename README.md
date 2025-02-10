@@ -80,6 +80,10 @@
   <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" alt="Instagram" style="width: 40px; margin: 5px;">
   </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/512px-Kaggle_Logo.svg.png?20240209024103" alt="kaggle" style="width: 40px; margin: 5px;">
+  </a>
 </div>
 
 
