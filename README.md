@@ -152,7 +152,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" title="React Native" style="width: 40px; margin: 5px;">
   
   <!-- Flutter -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Logo-Flutter.svg" alt="Flutter" title="Flutter" style="width: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-320px.png" alt="Flutter" title="Flutter" style="width: 40px; margin: 5px;">
   
   <!-- Swift -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Swift_logo_2.svg" alt="Swift" title="Swift" style="width: 40px; margin: 5px;">
