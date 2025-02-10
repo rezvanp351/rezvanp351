@@ -70,7 +70,7 @@
   </a>
   <!-- GitHub -->
   <a href="https://github.com/yourusername" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" style="width: 40px; margin: 5px;">
+    <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" style="width: 40px; margin: 5px;">
   </a>
   <!-- Facebook -->
   <a href="https://facebook.com/yourhandle" target="_blank" title="Facebook">
@@ -79,10 +79,6 @@
   <!-- Instagram -->
   <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" alt="Instagram" style="width: 40px; margin: 5px;">
-  </a>
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/yourhandle" target="_blank" title="HackerRank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" alt="HackerRank" style="width: 40px; margin: 5px;">
   </a>
 </div>
 
