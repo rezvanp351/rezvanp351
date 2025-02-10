@@ -100,7 +100,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" style="width: 40px; margin: 5px;">
   
   <!-- CNN -->
-  <img src="https://www.flaticon.com/free-icon/neural_2103633" alt="CNN" title="CNN" style="width: 40px; margin: 5px;">
+  <img src="https://www.flaticon.com/free-icon/neural_2103633](https://cdn0.iconfinder.com/data/icons/medical-373/64/Medical_health_medicine_healthcare_hospital-80-256.png" alt="CNN" title="CNN" style="width: 40px; margin: 5px;">
   
   <!-- XGBoost -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/XGBoost_logo.png" alt="XGBoost" title="XGBoost" style="width: 40px; margin: 5px;">
