@@ -11,13 +11,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width: 40px; margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" style="width: 40px; margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" style="width: 40px; margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width: 40px; margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" style="width: 40px; margin: 5px;">
 </div>
 
 ---
 
 # Graphic & UI/UX Tools  
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Adobe Photoshop -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobephotoshop.svg" alt="Adobe Photoshop" style="width: 40px; margin: 5px;">
@@ -40,7 +41,6 @@
   <!-- Affinity Designer -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/affinitydesigner.svg" alt="Affinity Designer" style="width: 40px; margin: 5px;">
 </div>
-
 
 ---
 
@@ -95,10 +95,13 @@
 # Web Development  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <!-- Additional Web Development Tools/Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" style="width: 40px; margin: 5px;">
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" style="width: 40px; margin: 5px;">
+  <!-- Laravel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 40px; margin: 5px;">
+  <!-- Ruby on Rails -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" style="width: 40px; margin: 5px;">
+  <!-- WordPress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" style="width: 40px; margin: 5px;">
 </div>
 
