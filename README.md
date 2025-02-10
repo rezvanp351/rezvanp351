@@ -41,7 +41,7 @@
   <!-- Blender -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" style="width: 40px; margin: 5px;">
   <!-- 3ds Max -->
-  <img src="" alt="Autodesk 3ds Max" title="Autodesk 3ds Max" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/3ds-max-full.svg" alt="Autodesk 3ds Max" title="Autodesk 3ds Max" style="width: 40px; margin: 5px;">
 </div>
 
 
