@@ -1,4 +1,4 @@
-# Programming Languages & Frameworks  
+![image](https://github.com/user-attachments/assets/44341cac-c3ce-4ca6-8979-67bd625ba19b)# Programming Languages & Frameworks  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" style="width: 40px; margin: 5px;">
@@ -66,7 +66,7 @@
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourhandle" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" style="width: 40px; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/100px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; margin: 5px;">
   </a>
   <!-- GitHub -->
   <a href="https://github.com/yourusername" target="_blank" title="GitHub">
@@ -74,11 +74,11 @@
   </a>
   <!-- Facebook -->
   <a href="https://facebook.com/yourhandle" target="_blank" title="Facebook">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook" style="width: 40px; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/512px-2021_Facebook_icon.svg.png?20220821121039" alt="Facebook" style="width: 40px; margin: 5px;">
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" style="width: 40px; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" alt="Instagram" style="width: 40px; margin: 5px;">
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/yourhandle" target="_blank" title="HackerRank">
