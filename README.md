@@ -82,7 +82,7 @@
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/512px-Kaggle_Logo.svg.png?20240209024103" alt="kaggle" style="width: 40px; margin: 5px;">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" style="width: 50px; margin: 5px;">
   </a>
 </div>
 
