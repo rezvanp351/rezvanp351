@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44341cac-c3ce-4ca6-8979-67bd625ba19b)# Programming Languages & Frameworks  
+# Programming Languages & Frameworks  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" style="width: 40px; margin: 5px;">
@@ -21,7 +21,7 @@
 # Graphic & UI/UX Tools  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Adobe Photoshop -->
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-700x394.png" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 40px; margin: 5px;">
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-700x394.png" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 80px; margin: 5px;">
   <!-- Adobe Illustrator -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" style="width: 40px; margin: 5px;">
   <!-- Adobe InDesign -->
