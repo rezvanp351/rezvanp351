@@ -85,8 +85,8 @@
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" style="width: 50px; margin: 5px;">
   </a>
   <!-- Threads -->
-  <a href="https://instagram.com/yourhandle" target="_blank" title="Kaggle">
-    <img src="https://gpng.net/wp-content/uploads/Instagram-Threads-Logo-PNG.png" alt="kaggle" style="width: 35px; margin: 5px;">
+  <a href="https://instagram.com/yourhandle" target="_blank" title="Threads">
+    <img src="https://gpng.net/wp-content/uploads/Instagram-Threads-Logo-PNG.png" alt="Threads" style="width: 35px; margin: 5px;">
   </a>
 </div>
 
