@@ -34,7 +34,7 @@
   <!-- Sketch -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="Sketch" title="Sketch" style="width: 40px; margin: 5px;">
   <!-- Canva -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Canva_logo.svg" alt="Canva" title="Canva" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/canva-logo-circle-freelogovectors.net_.png" alt="Canva" title="Canva" style="width: 40px; margin: 5px;">
   <!-- Adobe Premiere Pro -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" style="width: 40px; margin: 5px;">
   <!-- Adobe After Effects -->
