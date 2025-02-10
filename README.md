@@ -35,7 +35,7 @@
   <!-- Canva -->
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/canva-logo-circle-freelogovectors.net_.png" alt="Canva" title="Canva" style="width: 60px; margin: 5px;">
   <!-- Adobe Premiere Pro -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" style="width: 40px; margin: 5px;">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/8_Premier_Pro_Adobe_logo_logos-256.png" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" style="width: 40px; margin: 5px;">
   <!-- Adobe After Effects -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" title="Adobe After Effects" style="width: 40px; margin: 5px;">
   <!-- Blender -->
