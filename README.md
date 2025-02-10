@@ -98,7 +98,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" title="Keras" style="width: 40px; margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" style="width: 40px; margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" style="width: 40px; margin: 5px;">
+  
+  <!-- CNN -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Convolutional_Neural_Network_Icon.svg" alt="CNN" title="CNN" style="width: 40px; margin: 5px;">
+  
+  <!-- XGBoost -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/XGBoost_logo.png" alt="XGBoost" title="XGBoost" style="width: 40px; margin: 5px;">
+  
+  <!-- KNN -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/K-nearest_neighbors.svg/600px-K-nearest_neighbors.svg.png" alt="KNN" title="KNN" style="width: 40px; margin: 5px;">
+  
+  <!-- LSTM -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Long_Short-Term_Memory_Icon.svg" alt="LSTM" title="LSTM" style="width: 40px; margin: 5px;">
 </div>
+
 
 
 
