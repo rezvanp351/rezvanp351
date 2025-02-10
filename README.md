@@ -21,7 +21,7 @@
 # Graphic & UI/UX Tools  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Adobe Photoshop -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 40px; margin: 5px;">
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-700x394.png" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 40px; margin: 5px;">
   <!-- Adobe Illustrator -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" style="width: 40px; margin: 5px;">
   <!-- Adobe InDesign -->
@@ -81,7 +81,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" alt="Instagram" style="width: 40px; margin: 5px;">
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
+  <a href="https://instagram.com/yourhandle" target="_blank" title="Kaggle">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" style="width: 50px; margin: 5px;">
   </a>
 </div>
