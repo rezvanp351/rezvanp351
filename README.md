@@ -123,7 +123,7 @@
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" style="width: 40px; margin: 5px;">
   <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/170px-Laravel.svg.png" alt="Laravel" style="width: 40px; margin: 5px;">
   <!-- Ruby on Rails -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" style="width: 40px; margin: 5px;">
   <!-- WordPress -->
