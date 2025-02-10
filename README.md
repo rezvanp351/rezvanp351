@@ -35,13 +35,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="Sketch" title="Sketch" style="width: 40px; margin: 5px;">
   <!-- Canva -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" title="Canva" style="width: 40px; margin: 5px;">
-  <!-- GIMP -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP" title="GIMP" style="width: 40px; margin: 5px;">
-  <!-- CorelDRAW -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/CorelDRAW_Logo.png" alt="CorelDRAW" title="CorelDRAW" style="width: 40px; margin: 5px;">
-  <!-- Affinity Designer -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Affinity_Designer_Logo.svg" alt="Affinity Designer" title="Affinity Designer" style="width: 40px; margin: 5px;">
+  <!-- Adobe Premiere Pro -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" style="width: 40px; margin: 5px;">
+  <!-- Adobe After Effects -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" title="Adobe After Effects" style="width: 40px; margin: 5px;">
+  <!-- Blender -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" style="width: 40px; margin: 5px;">
+  <!-- 3ds Max -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Autodesk_3ds_Max_2021_icon.svg" alt="Autodesk 3ds Max" title="Autodesk 3ds Max" style="width: 40px; margin: 5px;">
 </div>
+
 
 
 
