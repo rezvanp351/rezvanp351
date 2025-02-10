@@ -18,15 +18,29 @@
 ---
 
 # Graphic & UI/UX Tools  
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" style="width: 40px; margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" style="width: 40px; margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" style="width: 40px; margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" style="width: 40px; margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" style="width: 40px; margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" style="width: 40px; margin: 5px;">
+  <!-- Adobe Photoshop -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobephotoshop.svg" alt="Adobe Photoshop" style="width: 40px; margin: 5px;">
+  <!-- Adobe Illustrator -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobeillustrator.svg" alt="Adobe Illustrator" style="width: 40px; margin: 5px;">
+  <!-- Adobe InDesign -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobeindesign.svg" alt="Adobe InDesign" style="width: 40px; margin: 5px;">
+  <!-- Adobe XD -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobexd.svg" alt="Adobe XD" style="width: 40px; margin: 5px;">
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/figma.svg" alt="Figma" style="width: 40px; margin: 5px;">
+  <!-- Sketch -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sketch.svg" alt="Sketch" style="width: 40px; margin: 5px;">
+  <!-- Canva -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/canva.svg" alt="Canva" style="width: 40px; margin: 5px;">
+  <!-- GIMP -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gimp.svg" alt="GIMP" style="width: 40px; margin: 5px;">
+  <!-- CorelDRAW -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/coreldraw.svg" alt="CorelDRAW" style="width: 40px; margin: 5px;">
+  <!-- Affinity Designer -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/affinitydesigner.svg" alt="Affinity Designer" style="width: 40px; margin: 5px;">
 </div>
+
 
 ---
 
@@ -36,4 +50,63 @@
   <img src="https://img.shields.io/github/repo-size/your-username/your-repo" alt="GitHub repo size" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" alt="GitHub stars" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/github/forks/your-username/your-repo?style=social" alt="GitHub forks" style="height: 30px; margin: 5px;">
+</div>
+
+---
+
+# Social Networks  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <!-- Twitter -->
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" style="width: 40px; margin: 5px;">
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourhandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" style="width: 40px; margin: 5px;">
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" style="width: 40px; margin: 5px;">
+  </a>
+  <!-- Facebook -->
+  <a href="https://facebook.com/yourhandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook" style="width: 40px; margin: 5px;">
+  </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" style="width: 40px; margin: 5px;">
+  </a>
+</div>
+
+---
+
+# Artificial Intelligence & Data Science  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 40px; margin: 5px;">
+</div>
+
+---
+
+# Web Development  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <!-- Additional Web Development Tools/Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" style="width: 40px; margin: 5px;">
+</div>
+
+---
+
+# Android  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" style="width: 40px; margin: 5px;">
 </div>
