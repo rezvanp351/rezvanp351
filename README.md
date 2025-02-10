@@ -109,7 +109,7 @@
   <img src="https://www.alooba.com/static/f6e3ffa35b5647fb5890b98a4ccc3815/machine_learning_icon_b0f3ea70f4.svg" alt="KNN" title="KNN" style="width: 40px; margin: 5px;">
   
   <!-- LSTM -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Long_Short-Term_Memory_Icon.svg" alt="LSTM" title="LSTM" style="width: 40px; margin: 5px;">
+  <img src="https://towardsdatascience.com/wp-content/uploads/2024/05/14QKNbO1oqRtbuo8wSGiFwg.png" alt="LSTM" title="LSTM" style="width: 40px; margin: 5px;">
 </div>
 
 
