@@ -22,7 +22,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Adobe Photoshop -->
-  <img src="https://logolook.net/wp-content/uploads/2023/10/Photoshop-Logo.png" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 40px; margin: 5px;">
+  <img src="https://logolook.net/wp-content/uploads/2023/10/Photoshop-Logo.png" alt="Adobe Photoshop" title="Adobe Photoshop" style="width: 80px; margin: 5px;">
   <!-- Adobe Illustrator -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" style="width: 40px; margin: 5px;">
   <!-- Adobe InDesign -->
