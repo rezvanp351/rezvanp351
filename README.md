@@ -121,14 +121,18 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" style="width: 40px; margin: 5px;">
+  
   <!-- Laravel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/170px-Laravel.svg.png" alt="Laravel" style="width: 40px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/170px-Laravel.svg.png" alt="Laravel" title="Laravel" style="width: 40px; margin: 5px;">
+  
   <!-- Ruby on Rails -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" title="Ruby on Rails" style="width: 40px; margin: 5px;">
+  
   <!-- WordPress -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" style="width: 40px; margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" style="width: 40px; margin: 5px;">
 </div>
+
 
 ---
 
