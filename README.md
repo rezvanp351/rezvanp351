@@ -1,4 +1,4 @@
-# Programming Languages & Frameworks  
+![image](https://github.com/user-attachments/assets/2ad93b83-137c-4289-8a32-8f4a23dab724)# Programming Languages & Frameworks  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" style="width: 40px; margin: 5px;">
@@ -41,7 +41,8 @@
   <!-- Blender -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" title="Blender" style="width: 40px; margin: 5px;">
   <!-- 3ds Max -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Autodesk_3ds_Max_Logo.svg" alt="Autodesk 3ds Max" title="Autodesk 3ds Max" style="width: 40px; margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/035a2827-f417-437e-b647-9d19c73560d7)
+" alt="Autodesk 3ds Max" title="Autodesk 3ds Max" style="width: 40px; margin: 5px;">
 </div>
 
 
