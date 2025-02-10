@@ -66,30 +66,31 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <!-- Twitter -->
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/yourhandle" target="_blank" title="Twitter">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" style="width: 40px; margin: 5px;">
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourhandle" target="_blank">
+  <a href="https://www.linkedin.com/in/yourhandle" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" style="width: 40px; margin: 5px;">
   </a>
   <!-- GitHub -->
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/yourusername" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" style="width: 40px; margin: 5px;">
   </a>
   <!-- Facebook -->
-  <a href="https://facebook.com/yourhandle" target="_blank">
+  <a href="https://facebook.com/yourhandle" target="_blank" title="Facebook">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook" style="width: 40px; margin: 5px;">
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" style="width: 40px; margin: 5px;">
   </a>
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/yourhandle" target="_blank">
+  <a href="https://www.hackerrank.com/yourhandle" target="_blank" title="HackerRank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" alt="HackerRank" style="width: 40px; margin: 5px;">
   </a>
 </div>
+
 
 ---
 
