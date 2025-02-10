@@ -26,8 +26,7 @@
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourhandle" target="_blank" title="LinkedIn">
-    <img src="![image](https://github.com/user-attachments/assets/e5a49392-be96-45d4-a1fc-2fe4f0c36ef3)
-" alt="LinkedIn" style="width: 40px; margin: 5px; transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1.3)';" onmouseout="this.style.filter='none';">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/100px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; margin: 5px; transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1.3)';" onmouseout="this.style.filter='none';">
   </a>
   <!-- GitHub -->
   <a href="https://github.com/yourusername" target="_blank" title="GitHub">
