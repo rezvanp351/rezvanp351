@@ -69,11 +69,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/100px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 40px; margin: 5px;">
   </a>
   <!-- Facebook -->
-  <a href="[https://facebook.com/yourhandle](https://www.facebook.com/rezvanpanah351)" target="_blank" title="Facebook">
+  <a href="https://www.facebook.com/rezvanpanah351" target="_blank" title="Facebook">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/512px-2021_Facebook_icon.svg.png?20220821121039" alt="Facebook" style="width: 40px; margin: 5px;">
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/yourhandle" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/rezvanpanah351/" target="_blank" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" alt="Instagram" style="width: 40px; margin: 5px;">
   </a>
   <!-- Instagram -->
