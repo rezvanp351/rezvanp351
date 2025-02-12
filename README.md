@@ -77,11 +77,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" alt="Instagram" style="width: 40px; margin: 5px;">
   </a>
   <!-- Instagram -->
-  <a href="https://www.threads.net/@rezvanpanah351" target="_blank" title="Kaggle">
+  <a href="https://www.kaggle.com/rezvanpanah" target="_blank" title="Kaggle">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" style="width: 50px; margin: 5px;">
   </a>
   <!-- Threads -->
-  <a href="https://www.kaggle.com/rezvanpanah" target="_blank" title="Threads">
+  <a href="https://www.threads.net/@rezvanpanah351" target="_blank" title="Threads">
     <img src="https://gpng.net/wp-content/uploads/Instagram-Threads-Logo-PNG.png" alt="Threads" style="width: 35px; margin: 5px;">
   </a>
 </div>
