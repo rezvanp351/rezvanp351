@@ -49,11 +49,10 @@
 
 # Shields.io Badges  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://img.shields.io/github/repo-size/rezvanp351/your-repo" alt="GitHub repo size" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" alt="GitHub stars" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=social" alt="GitHub forks" style="height: 30px; margin: 5px;">
-</div>
+![Repo Size](https://img.shields.io/github/repo-size/rezvanp351/OOP-Python)
+![Stars](https://img.shields.io/github/stars/rezvanp351/OOP-Python?style=social)
+![Forks](https://img.shields.io/github/forks/rezvanp351/OOP-Python?style=social)
+
 
 ---
 
