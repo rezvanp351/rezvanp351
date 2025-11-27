@@ -49,9 +49,20 @@
 
 # Shields.io Badges  
 
-![Repo Size](https://img.shields.io/github/repo-size/rezvanp351/OOP-Python)
-![Stars](https://img.shields.io/github/stars/rezvanp351/OOP-Python?style=social)
-![Forks](https://img.shields.io/github/forks/rezvanp351/OOP-Python?style=social)
+<div style="text-align: center;">
+
+  <img src="https://img.shields.io/github/search/rezvanp351/repos?style=for-the-badge&label=Public%20Repos">
+  <img src="https://img.shields.io/github/followers/rezvanp351?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/rezvanp351?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=rezvanp351&style=for-the-badge">
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvanp351&layout=compact&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezvanp351&show_icons=true&theme=default">
+
+</div>
+
 
 
 ---
