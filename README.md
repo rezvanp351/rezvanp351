@@ -59,9 +59,10 @@
 
   <br><br>
 
-  <!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats-zero.vercel.app/api/top-langs/?username=rezvanp351&layout=compact&theme=default" />
-<img src="https://github-readme-stats-zero.vercel.app/api?username=rezvanp351&show_icons=true&theme=default" />
+<!-- GitHub Readme Stats -->
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rezvanp351&layout=compact&theme=default" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=rezvanp351&show_icons=true&theme=default" />
+
 
 
 
