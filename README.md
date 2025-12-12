@@ -60,10 +60,9 @@
   <br><br>
 
   <!-- GitHub Readme Stats -->
-<!-- GitHub Readme Stats (Mirror Server) -->
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-readme-stats-lang.png" />
-<img src="https://github-readme-stats-git-master-1234.vercel.app/api/top-langs/?username=rezvanp351&layout=compact&theme=default" />
-<img src="https://github-readme-stats-git-master-1234.vercel.app/api?username=rezvanp351&show_icons=true&theme=default" />
+<img src="https://github-readme-stats-zero.vercel.app/api/top-langs/?username=rezvanp351&layout=compact&theme=default" />
+<img src="https://github-readme-stats-zero.vercel.app/api?username=rezvanp351&show_icons=true&theme=default" />
+
 
 
 </div>
