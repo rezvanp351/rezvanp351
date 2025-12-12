@@ -49,8 +49,9 @@
 
 # Shields.io Badges  
 
-<div style="text-align: center;">
+<div align="center">
 
+  <!-- Shields.io -->
   <img src="https://img.shields.io/github/search/rezvanp351/repos?style=for-the-badge&label=Public%20Repos">
   <img src="https://img.shields.io/github/followers/rezvanp351?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/rezvanp351?style=for-the-badge">
@@ -58,10 +59,12 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvanp351&layout=compact&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezvanp351&show_icons=true&theme=default">
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvanp351&layout=compact&theme=default&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezvanp351&show_icons=true&theme=default&cache_seconds=3600" />
 
 </div>
+
 
 
 
